@@ -1,4 +1,6 @@
-0x1D. C - Binary trees
-project team
-salim
-ahmed
+#  0x1D. C - Binary trees
+
+## Team
+
++ Salim Abdessamad
++ Ahmed Sahbeddine
