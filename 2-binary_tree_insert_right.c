@@ -4,10 +4,8 @@
  * binary_tree_insert_right - --
  * @parent: --
  * @value: --
- *
  * Return: If parent is NULL or an error occurs - NULL.
  *         Otherwise - a pointer to the new node.
- *
  * Description: If parent already has a right-child, the new node
  *              takes its place and the old right-child is set as
  *              the right-child of the new node.
