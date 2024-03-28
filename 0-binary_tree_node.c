@@ -4,7 +4,6 @@
  * binary_tree_node - --
  * @parent: --
  * @value: --
- *
  * Return: If an error occurs - NULL.
  *         Otherwise - a pointer to the new node.
  */
