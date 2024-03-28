@@ -11,7 +11,6 @@
  * @offset: --
  * @depth: --
  * @s: --
- *
  * Return: length of printed tree after process
  */
 static int print_t(const binary_tree_t *tree, int offset, int depth, char **s)
