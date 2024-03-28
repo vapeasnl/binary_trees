@@ -3,7 +3,6 @@
 /**
  * binary_tree_is_leaf - --
  * @node: --
- *
  * Return: If the node is a leaf - 1.
  *         Otherwise - 0.
  */
